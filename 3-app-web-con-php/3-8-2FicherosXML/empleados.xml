@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<EMPLEADOS>
+   <EMPLEADO>
+      <NOMBRE>NURIA</NOMBRE>
+      <APELLIDOS>NAVARRO FLORES</APELLIDOS>
+      <DNI>4753120E</DNI>
+   </EMPLEADO>
+   <EMPLEADO>
+      <NOMBRE>Pepito</NOMBRE>
+      <APELLIDOS>Juarez</APELLIDOS>
+      <DNI>11111111A</DNI>
+   </EMPLEADO>
+   <EMPLEADO>
+      <NOMBRE>Fran</NOMBRE>
+      <APELLIDOS>Jimenez</APELLIDOS>
+      <DNI>22222222B</DNI>
+   </EMPLEADO>
+</EMPLEADOS>
